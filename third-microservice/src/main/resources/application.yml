@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: third-microservice
+server:
+  port: 8053
+
+  eureka:
+   instance:
+     hostname: localhost
